@@ -1,4 +1,4 @@
-# SmartBillingSystem
+# SmartCart Billing
 
 
 # 📜 Table of Contents
